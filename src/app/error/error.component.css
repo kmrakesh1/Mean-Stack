@@ -1,0 +1,21 @@
+.popupTitle {
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+}
+
+.popupButtons{
+    text-align: center;
+    justify-items: center;
+    background-color: #0000ff;
+    color: #fff;
+    width: 30px;
+}
+
+.mat-mdc-dialog-actions {
+    justify-content: center;
+}
+
+.popupContent{
+    text-align: center;
+}

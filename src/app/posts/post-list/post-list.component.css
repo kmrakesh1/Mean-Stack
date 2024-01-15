@@ -1,0 +1,32 @@
+:host {
+    display: block;
+    margin-top: 20px;
+}
+.info-text{
+    text-align: center;
+}
+.mt-20{
+    margin-top: 20px !important;
+}
+
+.mat-mdc-card {
+    position: relative;
+    margin-top: 20px !important;
+}
+mat-spinner{
+    margin: auto;
+}
+
+.post-image {
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+.post-image img {
+    width: 100%;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
+mat-paginator {
+    margin-top: 1rem;
+}
